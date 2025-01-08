@@ -48,7 +48,7 @@ if (isset($_GET['code'])) {
 
         // Save user data in session
         $_SESSION['g_user_id'] = $user_data['id'];
-        $_SESSION['g_full_name'] = $user_data['name'] ?? $user_data['login'];
+        $_SESSION['g_full_name'] = $user_data['login'] ?? $user_data['login'];
 
         // Redirect to your main page
         header('Location: https://umeshdepale.com/cofounder/apply.php?t_id='.$_SESSION['t_id']);
