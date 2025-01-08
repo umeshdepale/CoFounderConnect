@@ -31,7 +31,7 @@
         </li>
       </ul>
           <a href="https://umeshdepale.com/cofounder/dashboard/manage.php" class="btn btn-light text-dark me-2">
-            <i class="bi bi-person-circle me-1"></i> Manage Listing
+            <i class="bi bi-person-circle me-1"></i> Notification
           </a>
           <a href="https://umeshdepale.com/cofounder/dashboard/post_project.php" class="btn btn-warning">
             <i class="bi bi-file-earmark-plus me-1"></i> Post Listing
